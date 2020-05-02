@@ -1,1 +1,1 @@
-# algortihms
+# algorithms
